@@ -28,9 +28,6 @@
     <img src="./Screenshot/Screenshot-1.jpeg">
 </a>
 
-<a href="./Screenshot/Screenshot-1.jpeg">
-    <img src="./Screenshot/Screenshot-1.jpeg" width="400">
-</a>
 <br/>
 <a href="./Screenshot/Screenshot-2.jpeg">
     <img src="./Screenshot/Screenshot-2.jpeg" width="400">
